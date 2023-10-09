@@ -29,7 +29,7 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.8',
-    install_requires= [],
+    install_requires= ['nettoolkit_common', ],
     # extras_require={'docs': docs_extras},
 )
 
