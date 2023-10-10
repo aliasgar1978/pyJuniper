@@ -7,6 +7,6 @@ User documentation!
    :caption: Contents:
 
 
-   Capture-All <u_doc/executions_legacy>
-   Capture-Individual <u_doc/executions_individual>
-   Quick Show <u_doc/quick_display>
+   Juniper - to-Set <u_doc/juniper_to_set>
+   Juniper - to-hierachy <u_doc/juniper_to_hierachy>
+   Juniper - Remove Remarks <u_doc/juniper_remove_remarks>
